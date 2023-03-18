@@ -12,7 +12,7 @@
       <h2 class="text-center">Hello Everyone</h2>
       <p class="text-center">GITHUB-WEBHOOK CI CD ...</p>
       <p class="text-center">GITHUB-WEBHOOK CI CD test</p>
-      <p class="text-center">GITHUB-WEBHOOK CI CD notification-test</p>
+      <p class="text-center">GITHUB-WEBHOOK CI CD notification test</p>
   </div>
 </body>
 </html>
