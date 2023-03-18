@@ -11,6 +11,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
       <p class="text-center">GITHUB-WEBHOOK CI CD ...</p>
+      <p class="text-center">GITHUB-WEBHOOK CI CD test</p>
   </div>
 </body>
 </html>
